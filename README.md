@@ -1,0 +1,1 @@
+# Detec-o-de-anomalias-em-transic-o-com-Python
